@@ -1,0 +1,107 @@
+.nav-link {
+    list-style-type: none;
+    display: inline;
+    margin: 5px 5px 20px 5px;
+}
+
+#nav-body {
+    float: right;
+}
+
+header {
+    height: 40px;
+    padding: 10px;
+    position: absolute;
+    background-color: #6699ff;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.link {
+    text-decoration: blink;
+    color: #ffffff;
+    line-height: 40px;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.para {
+    font-size: 18px;
+}
+
+#banner {
+    background-image: url("../images/artbanner.jpg");
+    color: 000000;
+    text-align: center;
+    line-height: 346px;
+    background-position: cover;
+}
+
+#banner-text {
+    color: red;
+}
+
+section {
+    overflow: hidden;
+    padding: 5px;
+}
+
+#info-img {
+    width: 400px;
+    padding: 30px;
+}
+
+#info-text {
+    width: 800px;
+    padding: 30px;
+}
+
+#info-line {
+    font-size: 45px;
+}
+
+#info-btn {
+    background-color: #6699ff;
+    padding: 5px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    font-size: 30px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.fa-facebook {
+    color: #3b5998;
+}
+.fa-titter {
+    color: #55acee;
+}
+.fa-instagram {
+    color: #e95950;
+}
+.fa-deviantart {
+    color: #05cc47;
+}
+
+.social-media {
+    text-decoration: none;
+    padding: 5px;    
+}
+
+
+
+
+
+
+
